@@ -1,0 +1,17 @@
+{
+    "name": "leondg/calculate-interest-example",
+    "description": "",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Léon de Groot",
+            "email": "leon90@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "require": {
+        "symfony/console": "^5.2"
+    }
+}
