@@ -12,7 +12,7 @@
 - Run composer in the project directory to install all the dependencies.  
 `composer install`
 
-- You can now run the console command with: 
+- You can now run the console command with:  
 `php console.php app:interest:calculate`
 
 - To get the final amount for 10 years with an anual contribution of 500 and an interest rate of 2:  
